@@ -1,4 +1,4 @@
-# Stock Price Prediction and Sentiment Analysis
+# ForeSight(Stock Movement Prediction and Sentiment Analysis)
 
 This project combines stock price prediction using machine learning models (LSTM) and sentiment analysis based on news headlines. The application is built using Streamlit for an interactive user interface.
 
